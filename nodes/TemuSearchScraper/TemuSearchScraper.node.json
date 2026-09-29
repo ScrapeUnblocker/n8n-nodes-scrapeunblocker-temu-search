@@ -1,0 +1,31 @@
+{
+	"node": "n8n-nodes-scrapeunblocker-temu-search.temuSearchScraper",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Sales",
+		"Data & Storage"
+	],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-temu-search#credentials"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-temu-search#readme"
+			}
+		]
+	},
+	"alias": [
+		"temu",
+		"search",
+		"products",
+		"ecommerce",
+		"dropshipping",
+		"scraper",
+		"apify",
+		"scrapeunblocker"
+	]
+}
