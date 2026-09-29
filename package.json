@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-scrapeunblocker-temu-search",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "n8n community node for the Temu Search Scraper Apify Actor by ScrapeUnblocker: Temu product URLs for a keyword as JSON",
 	"license": "MIT",
 	"homepage": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-temu-search#readme",
